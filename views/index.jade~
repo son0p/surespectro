@@ -1,0 +1,6 @@
+h1 SurEspectro
+p Entorno para las bajas frecuencias
+div.footer 
+ p 
+  a(href="http://estarter.co", target="blank") estarter
+ p  ko.lab

@@ -1,0 +1,6 @@
+!!!
+html
+  head
+    title surEspectro
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body!= body
